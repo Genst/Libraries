@@ -14,6 +14,7 @@
 - https://github.com/sheredom/subprocess.h  Portable means to launch and manage sub-processes
 ### Domain Specific Languages
 - https://github.com/AcademySoftwareFoundation/OpenShadingLanguage Good example for a LLVM based language
+- https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus Runtime C++
 ### ImGUI
 - https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 ### C++
